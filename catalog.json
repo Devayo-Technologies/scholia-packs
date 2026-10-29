@@ -1,0 +1,71 @@
+{
+  "formatVersion": 1,
+  "packs": [
+    {
+      "id": "de-de",
+      "language": "de",
+      "definitionLanguage": "de",
+      "version": 1,
+      "sourceTag": "wiktionary-de",
+      "attribution": "German Wiktionary via wiktextract (CC BY-SA 4.0 + GFDL)",
+      "sizeBytes": 98913771,
+      "url": "https://github.com/DevAyo-Technologies/scholia-packs/releases/download/v1/de-de-v1.zip",
+      "sha256": "5e0357e79377f75f62fc91e3f8cf1a134346d6230191edabe66a8f4bbff598c4"
+    },
+    {
+      "id": "es-es",
+      "language": "es",
+      "definitionLanguage": "es",
+      "version": 1,
+      "sourceTag": "wiktionary-es",
+      "attribution": "Spanish Wiktionary via wiktextract (CC BY-SA 4.0 + GFDL)",
+      "sizeBytes": 40921238,
+      "url": "https://github.com/DevAyo-Technologies/scholia-packs/releases/download/v1/es-es-v1.zip",
+      "sha256": "a7a159de0d67c3495f038c137cfd3f52a5fcdb0389cb286d9e8ab209bf2ef854"
+    },
+    {
+      "id": "fr-fr",
+      "language": "fr",
+      "definitionLanguage": "fr",
+      "version": 1,
+      "sourceTag": "wiktionary-fr",
+      "attribution": "French Wiktionary via wiktextract (CC BY-SA 4.0 + GFDL)",
+      "sizeBytes": 165497421,
+      "url": "https://github.com/DevAyo-Technologies/scholia-packs/releases/download/v1/fr-fr-v1.zip",
+      "sha256": "622527ed84a30d609cf224c2f3bd6861e9b81b4383454378d2837f9629ae4723"
+    },
+    {
+      "id": "ja-ja",
+      "language": "ja",
+      "definitionLanguage": "ja",
+      "version": 1,
+      "sourceTag": "wiktionary-ja",
+      "attribution": "Japanese Wiktionary via wiktextract (CC BY-SA 4.0 + GFDL)",
+      "sizeBytes": 10262227,
+      "url": "https://github.com/DevAyo-Technologies/scholia-packs/releases/download/v1/ja-ja-v1.zip",
+      "sha256": "ed665446b62e0e4278efbe0361f11717d2d7af69a9cfd823fda553ba6b82ea31"
+    },
+    {
+      "id": "ko-ko",
+      "language": "ko",
+      "definitionLanguage": "ko",
+      "version": 1,
+      "sourceTag": "wiktionary-ko",
+      "attribution": "Korean Wiktionary via wiktextract (CC BY-SA 4.0 + GFDL)",
+      "sizeBytes": 4453111,
+      "url": "https://github.com/DevAyo-Technologies/scholia-packs/releases/download/v1/ko-ko-v1.zip",
+      "sha256": "44b4e0181086e0af08c07bab9f917732ffdbce7c05be6493d8127af8d7546139"
+    },
+    {
+      "id": "pt-pt",
+      "language": "pt",
+      "definitionLanguage": "pt",
+      "version": 1,
+      "sourceTag": "wiktionary-pt",
+      "attribution": "Portuguese Wiktionary via wiktextract (CC BY-SA 4.0 + GFDL)",
+      "sizeBytes": 19079942,
+      "url": "https://github.com/DevAyo-Technologies/scholia-packs/releases/download/v1/pt-pt-v1.zip",
+      "sha256": "44c5879c64a7a166d9f3c0c26be9fea529a5484c3ce41e5bdd079603fd006073"
+    }
+  ]
+}

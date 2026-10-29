@@ -36,14 +36,17 @@ filtered to the edition's own language. Licensed **CC BY-SA 4.0 + GFDL**
 records); the full license text is embedded in every pack's manifest and
 shown in the app under Settings → Dictionaries.
 
-| Pack | Entries | Source edition |
-|---|---|---|
-| `es-es-v1.zip` | Spanish Wiktionary (eswiktionary) |
-| `pt-pt-v1.zip` | Portuguese Wiktionary (ptwiktionary) |
-| `de-de-v1.zip` | German Wiktionary (dewiktionary) |
-| `fr-fr-v1.zip` | French Wiktionary (frwiktionary) |
-| `ja-ja-v1.zip` | Japanese Wiktionary (jawiktionary) |
-| `ko-ko-v1.zip` | Korean Wiktionary (kowiktionary) |
+| Pack | Entries | Zip | Source edition |
+|---|---|---|---|
+| `es-es-v1.zip` | 846,729 | 39.0 MB | Spanish Wiktionary (eswiktionary) |
+| `pt-pt-v1.zip` | 399,101 | 18.2 MB | Portuguese Wiktionary (ptwiktionary) |
+| `de-de-v1.zip` | 978,089 | 94.3 MB | German Wiktionary (dewiktionary) |
+| `fr-fr-v1.zip` | 2,092,631 | 157.8 MB | French Wiktionary (frwiktionary) |
+| `ja-ja-v1.zip` | 131,061 | 9.8 MB | Japanese Wiktionary (jawiktionary) |
+| `ko-ko-v1.zip` | 69,974 | 4.2 MB | Korean Wiktionary (kowiktionary) |
+
+Extracted 2026-10-29 from wiktextract dumps dated 2026-10-01; sizes and
+checksums are recorded in `catalog.json` (the app verifies both layers).
 
 Pack ids use bare ISO 639-1 codes because that is what the app's
 `LanguageCatalog.normalize` folds language values to before resolving a
